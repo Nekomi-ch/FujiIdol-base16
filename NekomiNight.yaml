@@ -1,0 +1,19 @@
+scheme: "NekomiNight"
+author: "Nekomi Fujiwara (https://github.com/Nekomi-ch)"
+base00: "#090915" #black
+base01: "#191728"
+base02: "#292932"
+base03: "#3d3e52"
+base04: "#56555f"
+base05: "#928D9B"
+base06: "#f6f0ff" #white
+base07: "#f6b3bf" #pink
+base08: "#f66355" #red
+base09: "#f2a24e" #orange
+base0A: "#ffe19d" #yellow
+base0B: "#55e354" #green
+base0C: "#4ae2b7" #cyan
+base0D: "#698cf3" #blue
+base0E: "#d3baff" #magenta
+  
+
